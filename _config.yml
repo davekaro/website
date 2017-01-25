@@ -69,7 +69,8 @@ paginate: 1
 
 
 
-
+collections:
+- my_collection
 
 
 # ignore me
