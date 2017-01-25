@@ -2,7 +2,9 @@
 id: docs_usage
 guide: docs_getting_started
 layout: guide
-additional_reading_tags: ["basics", "cli"]
+additional_reading_tags:
+- basics
+- cli
 ---
 
 {% include vars.html %}

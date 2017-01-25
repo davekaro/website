@@ -2,7 +2,10 @@
 id: docs_version_control
 guide: docs_yarn_workflow
 layout: guide
-additional_reading_tags: ["dependencies", "package-json", "yarn-lock"]
+additional_reading_tags:
+- dependencies
+- package-json
+- yarn-lock
 ---
 
 To have people successfully develop or use your package, you need to ensure that all the necessary files are checked into your source control system.

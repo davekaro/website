@@ -2,7 +2,13 @@
 id: docs_managing_dependencies
 guide: docs_yarn_workflow
 layout: guide
-additional_reading_tags: ["dependencies", "package-json", "yarn-lock", "cli-add", "cli-upgrade", "cli-remove"]
+additional_reading_tags:
+- dependencies
+- package-json
+- yarn-lock
+- cli-add
+- cli-upgrade
+- cli-remove
 ---
 
 {% include vars.html %}

@@ -1,4 +1,5 @@
 ---
-layout: null
+layout: 
 ---
+
 {{site.latest_version}}

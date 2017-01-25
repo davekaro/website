@@ -1,11 +1,12 @@
 ---
-layout     : post
-title      : "Running Yarn offline"
-author     : Konstantin Raev
-author_url : "https://github.com/bestander"
-date       : 2016-11-24 8:00:00
-categories : announcements
-share_text : "installing node_modules with Yarn offline"
+title: Running Yarn offline
+date: 2016-11-24 08:00:00 Z
+categories:
+- announcements
+layout: post
+author: Konstantin Raev
+author_url: https://github.com/bestander
+share_text: installing node_modules with Yarn offline
 ---
 
 Repeatable and reliable builds for large JavaScript projects  are vital.

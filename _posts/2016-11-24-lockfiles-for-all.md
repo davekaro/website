@@ -1,11 +1,12 @@
 ---
-layout     : post
-title      : "Lockfiles should be committed on all projects"
-author     : James Kyle
-author_url : "https://twitter.com/thejameskyle"
-date       : 2016-11-24 8:00:00
-categories : announcements
-share_text : "Yarn: Lockfiles should be committed on all projects @yarnpkg"
+title: Lockfiles should be committed on all projects
+date: 2016-11-24 08:00:00 Z
+categories:
+- announcements
+layout: post
+author: James Kyle
+author_url: https://twitter.com/thejameskyle
+share_text: 'Yarn: Lockfiles should be committed on all projects @yarnpkg'
 ---
 
 Yarn is a new package manager that we built to be consistent and reliable. When

@@ -1,6 +1,7 @@
 ---
-layout: null
+layout: 
 ---
+
 /downloads/:version/:file https://github.com/yarnpkg/yarn/releases/download/v:version/:file
 
 # Nice short URLs to download the latest release

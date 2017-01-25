@@ -2,7 +2,11 @@
 id: docs_installing_dependencies
 guide: docs_yarn_workflow
 layout: guide
-additional_reading_tags: ["dependencies", "package-json", "yarn-lock", "cli-install"]
+additional_reading_tags:
+- dependencies
+- package-json
+- yarn-lock
+- cli-install
 ---
 
 If you have just checked out a package from [version control](./version-control), you will need to install those dependencies.

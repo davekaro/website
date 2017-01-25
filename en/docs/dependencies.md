@@ -2,7 +2,9 @@
 id: docs_dependencies
 guide: docs_dependencies
 layout: guide
-additional_reading_tags: ["package-json", "yarn-lock"]
+additional_reading_tags:
+- package-json
+- yarn-lock
 ---
 
 Package dependencies are critical to the success of a package. When you develop the functionality of your package, you will very likely use existing code defined in other packages. Those packages then become dependencies to your project.

@@ -2,7 +2,10 @@
 id: docs_cli_upgrade
 guide: docs_cli
 layout: guide
-additional_reading_tags: ["cli-add", "cli-tag", "dependencies-versions"]
+additional_reading_tags:
+- cli-add
+- cli-tag
+- dependencies-versions
 ---
 
 {% include vars.html %}
